@@ -51,8 +51,8 @@
     ],
     "sources" : [ {
       "type" : "archive",
-      "url" : "https://download.eclipse.org/technology/epp/downloads/release/2019-09/R/eclipse-committers-2019-09-R-linux-gtk-x86_64.tar.gz",
-      "sha512" : "d853ccbd34b7a5981b808e6a3d33216d7ebfed9161eb3d072435d08b8bc9bd7f30128082e1a1c904757fd102f778aa0a4af28826944a97eb4b85f6bec058acbe",
+      "url" : "https://download.eclipse.org/technology/epp/downloads/release/2019-12/R/eclipse-committers-2019-12-R-linux-gtk-x86_64.tar.gz",
+      "sha512" : "90098c2d9c187b129a82bc3f4e1f9848dc45d293d03c3be185d43df672f8070ba4ffac3754fb7b856e36aec1c8c5a2114c8a60598a920b48197e266b7b313b83",
       "strip-components" : 0
     }, {
       "type" : "file",
