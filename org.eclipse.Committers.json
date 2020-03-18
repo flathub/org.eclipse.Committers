@@ -1,7 +1,7 @@
 {
   "id" : "org.eclipse.Committers",
   "runtime" : "org.gnome.Sdk",
-  "runtime-version" : "3.34",
+  "runtime-version" : "3.36",
   "sdk" : "org.gnome.Sdk",
   "sdk-extensions" : [
     "org.freedesktop.Sdk.Extension.openjdk11",
@@ -51,8 +51,8 @@
     ],
     "sources" : [ {
       "type" : "archive",
-      "url" : "https://download.eclipse.org/technology/epp/downloads/release/2019-12/R/eclipse-committers-2019-12-R-linux-gtk-x86_64.tar.gz",
-      "sha512" : "90098c2d9c187b129a82bc3f4e1f9848dc45d293d03c3be185d43df672f8070ba4ffac3754fb7b856e36aec1c8c5a2114c8a60598a920b48197e266b7b313b83",
+      "url" : "https://download.eclipse.org/technology/epp/downloads/release/2020-03/R/eclipse-committers-2020-03-R-linux-gtk-x86_64.tar.gz",
+      "sha512" : "4d26ba1ac60f39be5670ac161e3a6ebbb53e814f56e3bf9be7bb0dfdad3423411f3f32abbca435e16b2889409bc703e70d1012d7c086bf75011c1857ab74c147",
       "strip-components" : 0
     }, {
       "type" : "file",
