@@ -51,8 +51,8 @@
     ],
     "sources" : [ {
       "type" : "archive",
-      "url" : "https://download.eclipse.org/technology/epp/downloads/release/2020-03/R/eclipse-committers-2020-03-R-linux-gtk-x86_64.tar.gz",
-      "sha512" : "4d26ba1ac60f39be5670ac161e3a6ebbb53e814f56e3bf9be7bb0dfdad3423411f3f32abbca435e16b2889409bc703e70d1012d7c086bf75011c1857ab74c147",
+      "url" : "https://download.eclipse.org/technology/epp/downloads/release/2020-06/R/eclipse-committers-2020-06-R-linux-gtk-x86_64.tar.gz",
+      "sha512" : "43293c612afdc749cb4402be3c60945947ea20658591a36f61e42ccb077526bb6de43f2515da3cdaa836eaf765e179dcb022afe76b11db6ba51b467eff66375a",
       "strip-components" : 0
     }, {
       "type" : "file",
