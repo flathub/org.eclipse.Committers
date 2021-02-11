@@ -1,5 +1,5 @@
 {
-	"only-arches": ["x86_64"]
+	"only-arches": ["x86_64"],
 	"end-of-life": "This app is superceded by the Eclipse IDE for Java Developers",
 	"end-of-life-rebase": "org.eclipse.Java"
 }
